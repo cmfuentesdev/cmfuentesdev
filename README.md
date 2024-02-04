@@ -7,11 +7,17 @@
 
 - 🔭 I’m currently working on [Aena GSV and Aena Parking](https://parking.aena.es/reservas/web/obtenerPrecio.ac)
 
-- 🌱 I’m currently learning **Angular**
+- 🖥️ I've worked on [Aena Travel](https://aenatravel.aena.es/es/) and [Aena Food to Fly](https://foodtofly.aena.es/es/)
 
-- 💬 Ask me about **Java, Spring and SQL**
+- and other private projects with [Redsys](https://redsys.es/), [Telefónica](https://www.telefonica.com/es/) and [Mutua Madrileña](https://www.mutua.es/)
+
+- 💬 Ask me about [Java, Spring and SQL](Java, Spring and SQL)
+
+- 🌱 I’m currently learning **Angular and a lot of frontend**
 
 - 📄 Know about my experiences [4+ years of experience working at big projects from its server side](4+ years of experience working at big projects from its server side)
+
+- 📫 How to reach me **carlosmartinezfuentes27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liitosmar96&show_icons=true&locale=en" alt="liitosmar96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liitosmar96&" alt="liitosmar96" /></p>
-
