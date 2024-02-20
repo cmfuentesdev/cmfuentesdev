@@ -11,7 +11,7 @@
 
 - and other private projects with [Redsys](https://redsys.es/), [Telefónica](https://www.telefonica.com/es/) and [Mutua Madrileña](https://www.mutua.es/)
 
-- 💬 Ask me about [Java, Spring and SQL](Java, Spring and SQL)
+- 💬 Ask me about Java, Spring and SQL
 
 - 🌱 I’m currently learning **Angular and a lot of frontend**
 
