@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liitosmar96" alt="liitosmar96" /></a> </p>
 
-- 🔭 I’m currently working on [Aena GSV and Aena Parking](https://parking.aena.es/reservas/web/obtenerPrecio.ac)
+- 🔭 I’m currently working on Aena GSV and [Aena Parking](https://parking.aena.es/reservas/web/obtenerPrecio.ac)
 
 - 🖥️ I've worked on [Aena Travel](https://aenatravel.aena.es/es/) and [Aena Food to Fly](https://foodtofly.aena.es/es/)
 
