@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Martínez</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liitosmar96&label=Profile%20views&color=0e75b6&style=flat" alt="liitosmar96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmfuentesdev&label=Profile%20views&color=0e75b6&style=flat" alt="cmfuentesdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liitosmar96" alt="liitosmar96" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmfuentesdev" alt="cmfuentesdev" /></a> </p>
 
 - 🔭 I’m currently working on Aena GSV and [Aena Parking](https://parking.aena.es/reservas/web/obtenerPrecio.ac)
 
